@@ -1,0 +1,3 @@
+Embeddings convert text into numerical representations.
+Embeddings help AI understand the meaning of words and sentences.
+Semantic search uses embeddings to find information based on meaning rather than exact keywords.

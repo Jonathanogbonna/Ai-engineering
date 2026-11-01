@@ -1,0 +1,6 @@
+RAG stands for Retrieval-Augmented Generation.
+RAG helps language models answer questions using external information.
+Embeddings convert text into numerical representations of meaning.
+Semantic search finds relevant information based on meaning.
+Large Language Models generate answers from text and context.
+Python is commonly used to build AI applications.

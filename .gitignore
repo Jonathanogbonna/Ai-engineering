@@ -1,0 +1,14 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Saved chatbot conversations
+day37_conversations.json
+day37_conversations_backup.json
+day39_test_history.json
+
+# macOS files
+.DS_Store

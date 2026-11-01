@@ -1,0 +1,4 @@
+question,expected_topic,ai_answer,result
+What is RAG?,retrieval,Retrieval-Augmented Generation,PASS
+What are embeddings?,vector,Semantic search,FAIL
+What is the capital of Brazil?,I don't know,I don't know.,PASS

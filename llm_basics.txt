@@ -1,0 +1,4 @@
+LLM stands for Large Language Model.
+Large Language Models can understand and generate human-like text.
+Language models can answer questions, summarize documents, and help with writing.
+RAG combines information retrieval with language model generation.
