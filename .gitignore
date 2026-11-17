@@ -1,14 +1,26 @@
+
 # Python virtual environment
 .venv/
+venv/
 
 # Python cache
 __pycache__/
 *.pyc
 
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
 # Saved chatbot conversations
 day37_conversations.json
 day37_conversations_backup.json
 day39_test_history.json
+day36_conversations.json
+*_conversations.json
+*_history.json
 
 # macOS files
 .DS_Store
